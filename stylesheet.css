@@ -5,3 +5,7 @@ p {
 .content-name {
  background-image: url("Screenshot_20180813-200421_Gallery.jpg");
 }
+
+.content-education {
+  color: red;
+}
