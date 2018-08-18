@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif
+  font: Helvetica, arial
   font-size: 14px;
   background-color: #F5F5F5;
 }
@@ -13,4 +13,28 @@ body {
   float: left;
   width: 300px;
   height: auto;
+}
+
+#content-name {
+}
+
+#content-contact {
+}
+
+#content-education {
+}
+
+#content-workexp {
+}
+
+#content-workexpjob {
+  border: 1px solid black;
+  margin: 25px 50px 75px 100px;
+  background-color: lightblue;
+}
+
+#content-workexplist {
+  border: 1px solid black;
+  margin: 25px 50px 75px 100px;
+  background-color: lightblue;
 }
