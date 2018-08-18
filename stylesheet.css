@@ -12,6 +12,7 @@ body {
   border: 5px solid black;
   margin: 25px 100px 25px 100px;
   padding-right: 25px;
+  display: inline;
 }
 
 #pic {
