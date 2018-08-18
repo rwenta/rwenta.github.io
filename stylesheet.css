@@ -10,4 +10,6 @@ body {
 
 .pic {
   float: left;
+  width: 400px;
+  height: 400px;
 }
