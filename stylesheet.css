@@ -2,3 +2,8 @@ body {
   font: 16px Arial, Sans-Serif;
   background-color: #F5F5F5;
 }
+
+.container {
+  width: 800px;
+  margin: 40px auto 60px;
+}
