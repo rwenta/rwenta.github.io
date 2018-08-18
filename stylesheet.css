@@ -1,5 +1,5 @@
 body {
-  font: Helvetica, arial
+  font: arial, sans-serif
   font-size: 14px;
   background-color: #F5F5F5;
 }
@@ -11,7 +11,7 @@ body {
 
 #pic {
   float: left;
-  width: 300px;
+  width: 250px;
   height: auto;
 }
 
