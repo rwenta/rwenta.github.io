@@ -3,12 +3,12 @@ body {
   background-color: #F5F5F5;
 }
 
-.container {
+#container {
   width: 800px;
   margin: 40px auto 60px;
 }
 
-.pic {
+#pic {
   float: left;
   width: 400px;
   height: 400px;
