@@ -15,15 +15,15 @@ body {
 }
 
 #content-name {
-  margin: 25px 50px 75px 100px;
+  margin: 25px 100px 25px 100px;
 }
 
 #content-contact {
-  margin: 25px 50px 75px 100px;
+  margin: 25px 100px 25px 100px;
 }
 
 #content-education {
-  margin: 25px 50px 75px 100px;
+  margin: 25px 100px 25px 100px;
 }
 
 #content-workexp {
@@ -31,12 +31,12 @@ body {
 
 #content-workexpjob {
   border: 1px solid black;
-  margin: 25px 50px 75px 100px;
+  margin: 25px 50px 25px 100px;
   background-color: lightblue;
 }
 
 #content-workexplist {
   border: 1px solid black;
-  margin: 25px 50px 75px 100px;
+  margin: 25px 50px 25px 100px;
   background-color: lightblue;
 }
