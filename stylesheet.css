@@ -10,11 +10,13 @@ body {
 
 #introinfo {
   border: 5px solid black;
+  margin: 25px 100px 25px 100px;
+  padding-right: 25px;
 }
 
 #pic {
   float: left;
-  width: 200px;
+  width: auto;
   height: auto;
   margin-right: 25px;
   margin-bottom: 25px;
