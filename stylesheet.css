@@ -30,13 +30,11 @@ body {
 }
 
 #content-workexpjob {
-  border: 1px solid black;
+  border: 5px solid black;
   margin: 25px 50px 25px 100px;
-  background-color: lightblue;
 }
 
 #content-workexplist {
-  border: 1px solid black;
+  border: 5px solid black;
   margin: 25px 50px 25px 100px;
-  background-color: lightblue;
 }
