@@ -37,6 +37,7 @@ body {
 #content-education {
   margin: 25px 100px 25px 100px;
   padding-right: 25px;
+  font-weight: bold;
 }
 
 #content-workexp {
