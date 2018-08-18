@@ -1,11 +1,15 @@
 body {
-  font: 14px arial, sans-serif;
+  font: 14px Tahoma, Geneva, sans-serif
   background-color: #F5F5F5;
 }
 
 #container {
   width: 1000px;
   margin: 40px auto 60px;
+}
+
+#introinfo {
+  border: 5px solid black;
 }
 
 #pic {
