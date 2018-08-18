@@ -10,7 +10,7 @@ body {
 
 #introinfo {
   border: 5px solid black;
-  margin: 25px 100px 25px 100px;
+  margin: 25px 50px 25px 100px;
   padding-right: 25px;
 }
 
@@ -53,9 +53,11 @@ body {
 #content-workexpjob {
   border: 3px solid black;
   margin: 25px 50px 25px 100px;
+  padding: 10px;
 }
 
 #content-workexplist {
   border: 3px solid black;
   margin: 25px 50px 25px 100px;
+  padding-right: 10px;
 }
