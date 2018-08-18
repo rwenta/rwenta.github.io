@@ -20,10 +20,10 @@ body {
   height: auto;
   margin-right: 25px;
   margin-bottom: 25px;
+  margin-top: 25px;
   padding-left: 25px;
   padding-bottom: 25px;
-  display: flex;
-  flex-wrap: wrap;
+  border-radius: 50%;
 }
 
 #content-name {
