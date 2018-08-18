@@ -44,6 +44,10 @@ body {
 }
 
 #content-workexp {
+  margin: 0px 100px 25px 100px;
+  padding-right: 25px;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 #content-workexpjob {
