@@ -16,6 +16,7 @@ body {
 
 #pic {
   width: 175px;
+  float: left;
   height: auto;
   margin-right: 25px;
   margin-bottom: 25px;
