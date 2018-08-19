@@ -1,6 +1,6 @@
 body {
   font: 14px Tahoma, Geneva, sans-serif;
-  background-color: #EBEDEF;
+  background-color: #F9F9F9;
 }
 
 #container {
@@ -12,7 +12,7 @@ body {
   border: 5px solid black;
   margin: 25px 50px 25px 100px;
   padding-right: 25px;
-  background-color: #F9F9F9;
+  background-color: #EBEDEF;
 }
 
 #pic {
