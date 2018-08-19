@@ -56,6 +56,8 @@ body {
 
 #content-verizon {
    border: 3px solid black;
+   margin: 25px 50px 25px 100px;
+   padding: 10px;
 }
 
 #content-workexpjob {
