@@ -57,15 +57,13 @@ body {
 #content-verizon {
    border: 3px solid black;
    margin: 25px 50px 25px 100px;
-   padding: 10px;
 }
 
 #content-workexpjob {
-  margin: 25px 50px 25px 100px;
-  padding: 10px;
+  margin: 10px 25px 25px 50px;
+ 
 }
 
 #content-workexplist {
-  margin: 25px 50px 25px 100px;
-  padding-right: 10px;
+  margin: 10px 25px 25px 50px;
 }
