@@ -50,7 +50,7 @@ body {
 #content-workexp {
   margin: 0px 100px 25px 100px;
   padding-right: 25px;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: bold;
 }
 
@@ -61,6 +61,7 @@ body {
 
 #content-workexpjob {
   margin: 10px 25px 25px 50px;
+  font-size: 20px;
  
 }
 
